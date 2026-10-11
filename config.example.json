@@ -1,0 +1,19 @@
+{
+  "_comment": "config.json 的字段示例。实际运行时脚本会在首次配置里自动生成 config.json, 你不需要手工复制这个文件。",
+  "account": "20250001",
+  "password": "",
+  "passwordProtected": "",
+  "isp": "mobile",
+  "portal": "http://202.117.144.205:8601",
+  "portalFallback": "http://202.117.144.205:8602",
+  "checkIntervalSeconds": 30,
+  "failureRetrySeconds": 60,
+  "expectedSsid": "SNNU",
+  "accountWithSuffix": "auto",
+  "logoffBeforeLogin": false,
+  "checkUrls": [
+    "http://connect.rom.miui.com/generate_204",
+    "http://www.msftconnecttest.com/connecttest.txt",
+    "http://captive.apple.com/hotspot-detect.html"
+  ]
+}

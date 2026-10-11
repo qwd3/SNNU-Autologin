@@ -1,0 +1,74 @@
+{
+    "_comment":  "这是合成的测试样本: 主机名、签名(upsig/uipk)、oi 全都是假值, 不含任何真实账号、IP 或 B站签名。真实响应请自行抓取替换。",
+    "code":  0,
+    "message":  "0",
+    "data":  {
+                 "quality":  80,
+                 "format":  "flv",
+                 "accept_quality":  [
+                                        80,
+                                        64,
+                                        32
+                                    ],
+                 "dash":  {
+                              "duration":  213,
+                              "minBufferTime":  1.5,
+                              "video":  [
+                                            {
+                                                "id":  80,
+                                                "baseUrl":  "http://xy111x222x33x44xy.mcdn.bilivideo.cn:8082/upgcxcode/11/22/333-1-30080.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1",
+                                                "backupUrl":  [
+                                                                  "http://aaaa1111.edge.mountaintoys.cn/upgcxcode/11/22/333-1-30080.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1",
+                                                                  "http://cn-xxxx-cm-01-01.bilivideo.com/upgcxcode/11/22/333-1-30080.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1"
+                                                              ],
+                                                "bandwidth":  16777216,
+                                                "mimeType":  "video/mp4",
+                                                "codecs":  "avc1.640032",
+                                                "width":  1920,
+                                                "height":  1080,
+                                                "frameRate":  "16000/672"
+                                            },
+                                            {
+                                                "id":  64,
+                                                "baseUrl":  "http://xy222x333x44x55xy.mcdn.bilivideo.cn:8082/upgcxcode/11/22/333-1-30064.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1",
+                                                "backupUrl":  [
+                                                                  "http://bbbb2222.edge.mountaintoys.cn/upgcxcode/11/22/333-1-30064.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1",
+                                                                  "http://cn-xxxx-cm-01-02.bilivideo.com/upgcxcode/11/22/333-1-30064.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1"
+                                                              ],
+                                                "bandwidth":  16777216,
+                                                "mimeType":  "video/mp4",
+                                                "codecs":  "avc1.640032",
+                                                "width":  1920,
+                                                "height":  1080,
+                                                "frameRate":  "16000/672"
+                                            },
+                                            {
+                                                "id":  32,
+                                                "baseUrl":  "http://xy333x444x55x66xy.mcdn.bilivideo.cn:8082/upgcxcode/11/22/333-1-30032.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1",
+                                                "backupUrl":  [
+                                                                  "http://cn-xxxx-cm-01-01.bilivideo.com/upgcxcode/11/22/333-1-30032.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1"
+                                                              ],
+                                                "bandwidth":  16777216,
+                                                "mimeType":  "video/mp4",
+                                                "codecs":  "avc1.640032",
+                                                "width":  1920,
+                                                "height":  1080,
+                                                "frameRate":  "16000/672"
+                                            }
+                                        ],
+                              "audio":  [
+                                            {
+                                                "id":  30280,
+                                                "baseUrl":  "http://xy444x555x66x77xy.mcdn.bilivideo.cn:8082/upgcxcode/11/22/333-1-30280.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1",
+                                                "backupUrl":  [
+                                                                  "http://cccc3333.edge.mountaintoys.cn/upgcxcode/11/22/333-1-30280.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1",
+                                                                  "http://cn-xxxx-cm-01-03.bilivideo.com/upgcxcode/11/22/333-1-30280.m4s?deadline=9999999999\u0026upsig=0000000000000000000000000000000000\u0026oi=0000000000\u0026uipk=5\u0026platform=pc\u0026nbs=1"
+                                                              ],
+                                                "bandwidth":  132000,
+                                                "mimeType":  "audio/mp4",
+                                                "codecs":  "mp4a.40.2"
+                                            }
+                                        ]
+                          }
+             }
+}
